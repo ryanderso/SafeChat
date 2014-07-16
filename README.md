@@ -1,7 +1,7 @@
 SafeChat
 ========
 
-Client-side chat filtering for Minecraft v 1.7.10. Requires forge (tested with 10.13.0.1180).
+Client-side chat filtering mod for Minecraft v 1.7.10. Requires forge (tested with 10.13.0.1180).
 
 Installation: download jar file in root of project and place in your .minecraft/mods folder
 
